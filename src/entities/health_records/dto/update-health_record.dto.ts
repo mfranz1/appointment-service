@@ -1,6 +1,6 @@
 import * as mongoose from 'mongoose';
 
-export class CreateHealthRecordDTO {
+export class UpdateHealthRecordDTO {
     readonly patientID: mongoose.Schema.Types.ObjectId;
     readonly primaryDoctor: String;
     readonly appointments: [mongoose.Schema.Types.ObjectId];

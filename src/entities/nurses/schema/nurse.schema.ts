@@ -1,10 +1,12 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
+import { Document, Schema as MongooseSchema } from 'mongoose';
 
 export type NurseDocument = Nurse & Document;
 
 @Schema()
 export class Nurse {
+    _id: MongooseSchema.Types.ObjectId;
+
     @Prop()
     email: String;
 

@@ -1,8 +1,9 @@
 import { Model } from 'mongoose';
-import { Injectable } from '@nestjs/common';
+import { Injectable, NotFoundException } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Patient, PatientDocument } from './schema/patient.schema';
 import { CreatePatientDTO } from './dto/create-patient.dto';
+import { UpdatePatientDTO } from './dto/update-patient.dto';
 
 @Injectable()
 export class PatientsService {
@@ -17,5 +18,26 @@ export class PatientsService {
 
     async findAll(): Promise<Patient[]> {
         return this.patientModel.find().exec();
+    }
+
+    async findOne(id: String): Promise<Patient> {
+        return this.patientModel.findById(id).exec();
+    }
+
+    async update(id: String, updatePatientDto: UpdatePatientDTO): Promise<Patient> {
+        const updatedPatient = await this.patientModel.findByIdAndUpdate({ _id: id }, updatePatientDto);
+
+        if(!updatedPatient){
+            throw new NotFoundException(`Patient #${id} not found.`);
+        }
+        else{
+            return updatedPatient;
+        } 
+    }
+
+    async deletePatient(id: string): Promise<any> {
+        const deletedPatient = await this.patientModel.findByIdAndRemove(id);
+
+        return deletedPatient;
     }
 }

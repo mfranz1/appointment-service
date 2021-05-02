@@ -9,11 +9,13 @@ export type AppointmentDocument = Appointment & mongoose.Document;
 
 @Schema()
 export class Appointment {
+    _id: mongoose.Schema.Types.ObjectId;
+
     @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'Patient' })
-    patientID: Patient;
+    patientID: Patient["_id"];
 
     @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'Doctor' })
-    doctorID: Doctor;
+    doctorID: Doctor["_id"];
 
     @Prop()
     date: Date;
@@ -25,7 +27,7 @@ export class Appointment {
     type: String;
 
     @Prop({ type: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Note' }] })
-    notes: Note[];
+    notes: Note["_id"][];
 
     @Prop()
     appointmentConfirmed: Boolean;

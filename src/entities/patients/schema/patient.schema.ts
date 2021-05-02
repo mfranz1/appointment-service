@@ -1,5 +1,5 @@
 import { Prop, raw, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
+import { Document, Schema as MongooseSchema } from 'mongoose';
 import { kStringMaxLength } from 'node:buffer';
 
 export type PatientDocument = Patient & Document;
@@ -7,6 +7,8 @@ export type PatientDocument = Patient & Document;
 
 @Schema()
 export class Patient {
+    _id: MongooseSchema.Types.ObjectId;
+
     @Prop()
     email: String;
 

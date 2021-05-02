@@ -10,13 +10,13 @@ export type HealthRecordDocument = HealthRecord & mongoose.Document;
 @Schema()
 export class HealthRecord {
     @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'Patient' })
-    patientID: Patient;
+    patientID: Patient["_id"];
 
     @Prop()
     primaryDopctor: String;
 
     @Prop({ type: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Appointment' }] })
-    appointments: Appointment[];
+    appointments: Appointment["_id"][];
 
     @Prop(raw({
         vitals: {
@@ -31,7 +31,7 @@ export class HealthRecord {
     patientHealthRecord: Record<string, any>;
 
     @Prop({ type: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Note' }] })
-    notes: Note[];
+    notes: Note["_id"][];
     
 }
 

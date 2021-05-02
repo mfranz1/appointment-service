@@ -6,8 +6,10 @@ export type NoteDocument = Note & mongoose.Document;
 
 @Schema()
 export class Note {
+    _id: mongoose.Schema.Types.ObjectId;
+
     @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'Nurse' })
-    noteAuthor: Nurse;
+    noteAuthor: Nurse["_id"];
 
     @Prop()
     note: String;
@@ -20,3 +22,4 @@ export class Note {
 }
 
 export const NoteSchema = SchemaFactory.createForClass(Note);
+
