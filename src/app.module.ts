@@ -9,6 +9,7 @@ import { PatientsModule } from './entities/patients/patients.module';
 import { HealthRecordsModule } from './entities/health_records/health_records.module';
 import { NotesModule } from './entities/notes/notes.module';
 import { AppointmentsModule } from './entities/appointments/appointments.module';
+import { UsersModule } from './entities/users/users.module';
 
 
 @Module({
@@ -20,7 +21,8 @@ import { AppointmentsModule } from './entities/appointments/appointments.module'
     PatientsModule,
     HealthRecordsModule,
     NotesModule,
-    AppointmentsModule
+    AppointmentsModule,
+    UsersModule
   ],
   controllers: [AppController],
   providers: [AppService],

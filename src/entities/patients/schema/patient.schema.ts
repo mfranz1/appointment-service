@@ -1,6 +1,5 @@
 import { Prop, raw, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Schema as MongooseSchema } from 'mongoose';
-import { kStringMaxLength } from 'node:buffer';
 
 export type PatientDocument = Patient & Document;
 

@@ -1,10 +1,12 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
+import { Document, Schema as MongooseSchema } from 'mongoose';
 
 export type AdminDocument = Admin & Document;
 
 @Schema()
 export class Admin {
+    _id: MongooseSchema.Types.ObjectId;
+
     @Prop()
     name: String;
 
