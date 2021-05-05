@@ -32,12 +32,13 @@ export class UsersController {
         return this.usersService.findAll();
     }
 
-    @Get('auth')
+    @Post('auth')
     async findOne(@Res() res, @Body() authUserDto: AuthUserDTO){
+        console.log(authUserDto);
         const user = await this.usersService.findOne(authUserDto);
 
         if(!user){
-            throw new NotFoundException("User does not exist");
+            throw new NotFoundException("User does not exist at all");
         }
         else{
             return res.status(HttpStatus.OK).json(user);
