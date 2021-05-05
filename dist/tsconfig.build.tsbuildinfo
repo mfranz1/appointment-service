@@ -1177,13 +1177,13 @@
         "affectsGlobalScope": false
       },
       "../src/app.service.ts": {
-        "version": "5d4242d50092a353e5ab1f06663a89dbc714c7d9d70072ea03c83c5b14750f05",
-        "signature": "d8f4cb0109c1b399d657807fd6af504d74a9300325e0fc915abdbf658b464a97",
+        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
         "affectsGlobalScope": false
       },
       "../src/app.controller.ts": {
-        "version": "3469c5aa62e1ba5b183d9bb9d40193e91aa761fc5734d332650b0bd49c346266",
-        "signature": "3293b0d1d6a7f902316e164fcf36ae099f1bbb0224484586eaab30d9dea78d32",
+        "version": "260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28",
+        "signature": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts": {
@@ -1532,248 +1532,248 @@
         "affectsGlobalScope": false
       },
       "../src/entities/admins/schema/admin.schema.ts": {
-        "version": "bfaad8f0cbfba6bf618888017da220ac9b5359a511f554542555ead80c7af537",
-        "signature": "b6e72f8e551ac9d81a7a18b7c08b7e26d70d3af581e0d35bcf6d5ab5142a77a2",
+        "version": "f3931290a01e0375ddefdf6418339e644d9f494a3bba09874a5314c8519188bf",
+        "signature": "9294073fba960fe67d2fd79b6fb2a3392b8c4ae1312ed29c03db453045cc7983",
         "affectsGlobalScope": false
       },
       "../src/entities/admins/dto/create-admin.dto.ts": {
-        "version": "e481ed0525829b461f91e353819c7a9bf0608ad497b6899f59d68e94ab36fcf4",
-        "signature": "1e62f05facf5086a046ccd930bbe6bc6e779b5fe24c28b7894e917f7d709813a",
+        "version": "46327504d08ead3b63868fd7e04b3f2d2e166728845dee41fab5742aba26f457",
+        "signature": "c8bac880197ec534c15761fbe1a5fa83d761592fb54951bf3fb9fb0b18511851",
         "affectsGlobalScope": false
       },
       "../src/entities/admins/dto/update-admin.dto.ts": {
-        "version": "084d58b8f9fb7c77c491a00123b588c36ee72af30ac6f94741b6645f7b1aaf71",
-        "signature": "1ddcd6da4be81b47c2c9ef912de93d6161b2d9ad70a296195bee1eda2be07e47",
+        "version": "dee0093959a42fdaae09eed04563fd3581ca9277a2ed8653a2210719185b0918",
+        "signature": "4e86615ec674c5de1c6ff68e482e6b8b99ffe31193e95d62edd4811d3f3344a9",
         "affectsGlobalScope": false
       },
       "../src/entities/admins/admins.service.ts": {
-        "version": "6115864a738eb95e80dd6f424e69886d434aa381154bb02b5586366a8c7611d6",
-        "signature": "53c88568401d234e1b3a6f13305f13a0df61c6c72f048b7795bb89802288f927",
+        "version": "b6ba5b121d86491eb613dba50987a5b2c1b636c34ccff7ff68fa2147d4a7a675",
+        "signature": "3175a0734e3a89c9483f2cb431fbc9ccabacfbbc2bcd2d988b32d7550502a4f2",
         "affectsGlobalScope": false
       },
       "../src/entities/admins/admins.controller.ts": {
-        "version": "8e6343b7358b79129b8b60069a94bd0318dbc54a8c289f9b4b83132bb8632f9f",
-        "signature": "5741bf8bab12e3906fbf9433601256ed951662cfab77f7a0cf26db107799f171",
+        "version": "512c89c83044c31a7284fe8f582ffc025f6102fadb4e380233ba8bc79e84e8cc",
+        "signature": "944afe4cfadc0ad1871130140e4cc32103f3d1064ffa77e7440260adfbeb3a43",
         "affectsGlobalScope": false
       },
       "../src/entities/admins/admins.module.ts": {
-        "version": "796803676b8f780d8f295142a31dedca70c60e77c5de5b927e76630db170097c",
-        "signature": "9440b89b33b76928a4be7cf20b2b38bff30cd5a1f8fd3bdb2a05c1a6e4dc5067",
+        "version": "8c102fc2b3e9db66b005b794f1efb11442bc9e54cc68b8a1dc0dbd6a02feb846",
+        "signature": "73a46d34ba4c3ebc7e0572fd82ee4f1fab718dfb6242cc5e15eafcd4b249f8da",
         "affectsGlobalScope": false
       },
       "../src/entities/doctors/schema/doctor.schema.ts": {
-        "version": "270c1ff515c3ebaedda05d1e7ff93587ee3d0b1b20556b4f5e218f543760943a",
-        "signature": "1977bb8972190dbee454e5811d934b0b40a319a355f6acf9f7acf0a7da7d4b50",
+        "version": "074f5bdd4e2b236b4aaf0843fced16595ebce0ea0aaaa3aad2f3c5a960b188a2",
+        "signature": "09a361232bdb1dc3b5c076f9c093506ea4947008039644bd1fda49258735d762",
         "affectsGlobalScope": false
       },
       "../src/entities/doctors/dto/create-doctor.dto.ts": {
-        "version": "3ec67375a23c51a575d9540dab1d8ad852427e296f653fa3288b039a2801ec22",
-        "signature": "509b994c8e587c1dc7f3de36eaf4547bfac4c269b7d7af88fb8ee419415f098f",
+        "version": "ac6167b51434abbfdb36ec2ddaa867a886a8b71c99ff38834a9e650042701c46",
+        "signature": "6738b8dcafcb4b390ba8fb0e440de90e7d7411e1fc305bab7de3f8a7fe677750",
         "affectsGlobalScope": false
       },
       "../src/entities/doctors/dto/update-doctor.dto.ts": {
-        "version": "20092809b38c520739c6e59eb44140fec00a92524ad9f8b715f4ad1a98f4cfe9",
-        "signature": "df92060d0366684176b322931dc47584e88fee5fd5e09598fd2cbf240c275075",
+        "version": "72128b3f1e007c56249347297140d9bd682a36372d939ebed5e63f1306db2bbe",
+        "signature": "5c792899711cc691a6e7e3fdd03d34d131f89703321bf5825b1870c37ebd66d7",
         "affectsGlobalScope": false
       },
       "../src/entities/doctors/doctors.service.ts": {
-        "version": "8183356c10758b1acd3621e6b3daabeaa974245a752b53210782877ba681af29",
-        "signature": "e8d0bcd99969685bd1776b915e519a30ae1a5ef39340f8019639f672fc7c7a9e",
+        "version": "c741548cda43f7cd9ef13fa6b748c92c2f94820ab3b448f4ec181fa19a826dd8",
+        "signature": "1bd6cfa9ddd65d33f086d55d741aff770a4e99aee12d9cd72dc5360da704e60e",
         "affectsGlobalScope": false
       },
       "../src/entities/doctors/doctors.controller.ts": {
-        "version": "1993d03383752b591bead6cccb21f3925d428fd6914507327ab025bdeb57c5c1",
-        "signature": "af3b82516b5555a5ea981d7b60d289781c9fb29a7b1080b511b6d9f19e14369e",
+        "version": "584b770df871fa9645b7a863553b5a2c90bd41323aff20d6ba5895bbd47bffc2",
+        "signature": "049b273de5805dabe3ee619f946f87e65074fe342cffb3c6d51dd191b8b13273",
         "affectsGlobalScope": false
       },
       "../src/entities/doctors/doctors.module.ts": {
-        "version": "568f01d02d450986c69dc1a7031def7da3e82d9cb16602f6ee8510b9b9695db1",
-        "signature": "b5ccb31f98c41a6820c588a596c16b739e98a78e3ffe63c647e71b2bbc07b965",
+        "version": "b925cf36d237b211077b7effca8b4c0859e73e86b94c37134c6d275bcaaa65b2",
+        "signature": "e688cb699d087355efc32753a7f0eb47c57bf8f4d55cd0428080e1a3085b7cb8",
         "affectsGlobalScope": false
       },
       "../src/entities/nurses/schema/nurse.schema.ts": {
-        "version": "424ff442e6259bf87e998748c786ba5212750431729279d6b12bb6fe2441ef38",
-        "signature": "b716361e0c753279473a17eafbe1f3887230bbcd1e7ec212d4eee037941cae8c",
+        "version": "d01a703d2b43aae17527818e3a5ad04015fdbd712fd772e2ae8e7a8db892e0be",
+        "signature": "ef758d45979bca4dcff83486408eb58af44bc3a5dd1072434406cee99f24fa11",
         "affectsGlobalScope": false
       },
       "../src/entities/nurses/dto/create-nurse.dto.ts": {
-        "version": "69e7e2bcfbf1993594577f69b17f257f768df2f194a77c08e58039ec8a4cc235",
-        "signature": "bf260f0fb8338a4563048f302e486f2bce24bc547dc7a9351c44b38e4ef9a553",
+        "version": "48c22ba20d59a184b6a2d55a2661f03e852c93fd39b153c10157a8a518422f7b",
+        "signature": "0d9dda9420733b35e3c324bfbac1a145b17f0f806dfb2cffb8ff0b19edc9268c",
         "affectsGlobalScope": false
       },
       "../src/entities/nurses/dto/update-nurse.dto.ts": {
-        "version": "594ef2833f04ccc85b0b0c9d52e1e0949cb42eda112811e1ba8a42089d502047",
-        "signature": "f5f8b102c68a40225f03aed54533717bce5a37dfbcba719738733910828725f8",
+        "version": "410666a279bd4a09737057e0e14290c3ec04eb1fdee66fb5d611a158b6e31ecb",
+        "signature": "4e1763691154600825f8fbca03c18fc87a55d93122785fe882a450d514bf25e7",
         "affectsGlobalScope": false
       },
       "../src/entities/nurses/nurses.service.ts": {
-        "version": "f2d356db0ab83b995cdca3813621d9f57aabf7914c3f1492e3295f4adc1649c0",
-        "signature": "2168a677390036abce06e7ff2b085fe2c50ae84108abd35fe0ed8677cdc8647f",
+        "version": "3781183cc52a202fbe8cb5e7cedbd88452d7c549b7a4c7982f3e490b692bd7a4",
+        "signature": "1a0c6f9ddc64bc6facf536b3b68e93d8dbf17d0c80afb1c349f65e81137e67b5",
         "affectsGlobalScope": false
       },
       "../src/entities/nurses/nurses.controller.ts": {
-        "version": "11d475d61a64a923d91780bdef201df6f9aefa8c636492df87fe137d5f82ac7f",
-        "signature": "1a9813657fbaf84a175ca346ba6193b9304e35d7bb098844fbf7523133537f0d",
+        "version": "b1612f4cac6c3e27481ec9a98472c1ef5acbe3eda71733db58c0ea14871cbb2b",
+        "signature": "2a8216a0a2d65bc52fdd01f324bad75d78f4e8cf5e7dc5b97b64b3d94e032b01",
         "affectsGlobalScope": false
       },
       "../src/entities/nurses/nurses.module.ts": {
-        "version": "5f36c653be023886d5db29c00a706b6a129bc0eb29cf10d7f59f02fb1df8aa06",
-        "signature": "8623f99d9f98ace2390a24b975ee346b72a2f3cfcb5114a3a4b8bf6373dfc672",
+        "version": "f89786570155641e54cd1cc01c0c6f235a707b9aae4447c3629c119b2f4c9c07",
+        "signature": "0b5901debb96848c6510ec4705ec1ba6a574430d18480d5a38e78824355a78e4",
         "affectsGlobalScope": false
       },
       "../src/entities/patients/schema/patient.schema.ts": {
-        "version": "2b83b17109058f066f0b9462d6ce2b3774d50608c882cabc09effb946ebe89dc",
-        "signature": "ac5e9cc59a9a73874e9df76e25623d5ef0bec5a9e9d0d3a5e023fed8ed8dcd3b",
+        "version": "7777f06894f05168c4a4f642bd2ba76e848b1a34e90ce92d458225b64505d94b",
+        "signature": "86dd780a3ac861f2d9330e5ae722919e09950715a64d81ad27c9c8655b987f9a",
         "affectsGlobalScope": false
       },
       "../src/entities/patients/dto/create-patient.dto.ts": {
-        "version": "4edd74e313fdcbd03501c748a6ffad9f1579a7360f8a71d3e4590aafd22c71b0",
-        "signature": "f77c60b70dc35d27040dbc8b1593b5cafd7ac7a0854dc5960c9b2db9d74575b8",
+        "version": "d753aaa32a049b1d45be107eed727a7a3782a6331042159cdaf1840588c3d152",
+        "signature": "3ab4a508995638d5564348931a6ea5046e60811c3f1533f71776681a17a63501",
         "affectsGlobalScope": false
       },
       "../src/entities/patients/dto/update-patient.dto.ts": {
-        "version": "236904215799ac2456a9bfa9f9f8ec08f60c89e0b46ef48a54da445db8fb4bbe",
-        "signature": "6bf6f05300cd5dadf74ab5ce6195ebfbf285fa21f93c94261156527496e27778",
+        "version": "8cd5b72e0ee6286f04ed0375cd4c35c2d1a114cae850a715c7e044a724f413fe",
+        "signature": "0721c77863226c33442777e31c1cf2a33107816632446e1f328f906a4483c414",
         "affectsGlobalScope": false
       },
       "../src/entities/patients/patients.service.ts": {
-        "version": "35a9a3efeed921103c08a490c6b87ab45f7f91eb668687ada1b63c9f3b943690",
-        "signature": "5f21c818943d54f7274eb364c5316bacb5d31a4f23a3ee21827d2391c9359ee8",
+        "version": "6cb6fe0fa7158e93ae36a5146b451e9e4e806cf8111f1f58e1ddfe2c8dfbd471",
+        "signature": "65db8b6287ebe8e88cd31d3aa3bcc3653bcadd50d596e1f949071ecf833d6227",
         "affectsGlobalScope": false
       },
       "../src/entities/patients/patients.controller.ts": {
-        "version": "55008069ef8b67cefda183b0bdf958b90a35a168df2202acefb4f44d67987454",
-        "signature": "1a8fa5d7afdab1e50466e95227438871c57f1297b2c1ccbcdae2f1a36d29e682",
+        "version": "24495c48ea9c31c714cf108410dc4d19e4f86b93c639761ab042bcbc294972bc",
+        "signature": "62d37ec8c64c7401d96f36cd79f46a4410e1a7d6912343bbe50b065b29ade832",
         "affectsGlobalScope": false
       },
       "../src/entities/patients/patients.module.ts": {
-        "version": "e33a209cfb713a995aaf2d3f539c0d1dd5ce2505021f025b9b18f195b96fed4b",
-        "signature": "4c70b9879ae04a0ee209913abb8c76f849cf74216ddbc5a0fc6b19e9d8bb4858",
+        "version": "ed2b39f14ccd6e9f3d1aebfc51dbb2752883432d71c10a9201a8dc8b4a3f26fe",
+        "signature": "d041aee28c480e2fe23a1d72f2ac1f9fef3d09702e66ce1dcd190ebae2dffa08",
         "affectsGlobalScope": false
       },
       "../src/entities/notes/schema/note.schema.ts": {
-        "version": "723414b36a959a3ddc4dae4f50b7a5d433e974ba510d439919d7c8504698c58f",
-        "signature": "8dc9f99a06383cbc3f417ba59d733ee614e40e62b398367701ea2ecf6cb62c8b",
+        "version": "ca37686878887733c14a80421100009c8f557dd2e94cc626c4158e2a2ea05cd4",
+        "signature": "edbeb4c866976024a2bbd59559858ec2e9cd8b5d12afea7aae098053236b1a2c",
         "affectsGlobalScope": false
       },
       "../src/entities/appointments/schema/appointment.schema.ts": {
-        "version": "d5b454a41cf642e4bebecb011e9edbb606b388139d979770bd8301a3c3ed37aa",
-        "signature": "6b0ddcb8886c4c30f035c62be710288693e0aa69350c406e3f76a6c1bc99fc7a",
+        "version": "6414a225a17c01fc82db90bcbb3d6fddfdaa0141876f799384b9c072dc24279e",
+        "signature": "785631b4b6e148d6e24e33e335c8b2f1778dabf6b68f15c07d7839abaff92493",
         "affectsGlobalScope": false
       },
       "../src/entities/health_records/schema/health_record.schema.ts": {
-        "version": "6f1e1474e6562739f3283827e1593e104f25e38b106f7eb251f417f85556cde9",
-        "signature": "1ec4832cd7438c93b2ae590ee504808359b5684b3fe446d9f0dba20728a9e636",
+        "version": "cedbd6016e3723138025cfe3c83844b115b96e4e2b65322f884cb44b134a3556",
+        "signature": "b84b7229e45df9120373a509e1eaceb0522c9b0e89155c3f0b34865597e729b7",
         "affectsGlobalScope": false
       },
       "../src/entities/health_records/dto/create-health_record.dto.ts": {
-        "version": "c2bd8d0bc9cea827cb0f51458712e0bcddf0dd6fb57d6ee725bc0a8a37bdce76",
-        "signature": "e89d439a77ea9d77bd7f6523fd3773399dd130444a7b1e1810689e5d88201e74",
+        "version": "3f9423d5b931e3e9aede27e6f6bfd328489eeb66e9172e81b71cbb99d68e0ccc",
+        "signature": "7022ae6f245ded0e4608e7af53201aed14d6a87845f9589ccd012276023243de",
         "affectsGlobalScope": false
       },
       "../src/entities/health_records/dto/update-health_record.dto.ts": {
-        "version": "20410b684e27a6f388dc7c882591711d26c1ecd49df13ad22e802cd170f5b79a",
-        "signature": "7c598faa56edb218b8addd9ed123d20a5f4cb69fc972bb0a72d91cfaaafeb5bc",
+        "version": "4ce63a3cb12ef3d598c9e7f7c63eb27ec78be83ea8b0896129300947bdf91760",
+        "signature": "2677963c4f91d4640fcb79dc446d8aa8d83cace2a05979207323c81daca6de72",
         "affectsGlobalScope": false
       },
       "../src/entities/health_records/health_records.service.ts": {
-        "version": "a3e20b8cb0b2fb4263e86d2e33a5552c036b75351130b8de283810faa4b44c88",
-        "signature": "5f0a523bc087aec51040cdac695ed44520813963149557f34b412f98bc0188ce",
+        "version": "47d18dafa4fdc6534c432f684147fd84e143283fd5ddcc8f62a950fd213707b5",
+        "signature": "29b6d7a3c39db318dbdf049c8a3fc68c0d37c90d1bca23ef6ab5eedb1fc2719e",
         "affectsGlobalScope": false
       },
       "../src/entities/health_records/health_records.controller.ts": {
-        "version": "d83a377bda49236a6f5d2a3034074e958d30298424f5d8bb8f8cc69396477093",
-        "signature": "ef1801018130f648d973931424ed3daa90cc5df2d1f419f1ab38c37b3fcb3366",
+        "version": "0d3c4b2eceacc15007f92b91c7dc76c15f624ca7244852a693baba4c7b68a635",
+        "signature": "21a56ed70c6a65e2d46cf28b5a7874191c18ab950cdcb62fcfba67fb088a4974",
         "affectsGlobalScope": false
       },
       "../src/entities/health_records/health_records.module.ts": {
-        "version": "abee5203676773073d8d218a4ab7bcf6ac6719ba76a97ce6b9fddacb41822fbc",
-        "signature": "6544004be2f4b5362fdc397ba010a510591a1a3fde940d85afceacf5925982ce",
+        "version": "e6c0b02fa81fbbe57f1a977dbae29f93a5e5ebb723614a788da5c716d307007b",
+        "signature": "bb4f3d8a2debaf2e78ef60f2f79683868018dfcf6147487f029d54ab56ec0201",
         "affectsGlobalScope": false
       },
       "../src/entities/notes/dto/create-note.dto.ts": {
-        "version": "9fd14edaac5e504b1f2bfa554a78d321855415b9e819b325476b2dde786414a2",
-        "signature": "fce7c7fb029f4eb0bbe269780831ca932fc423a00584c87e357afe097f24ab1e",
+        "version": "b339e85c16a5692793057e6c5a9b59ce6ee069f7fcb28e1fd5f3f028e0fa6374",
+        "signature": "9f2b69d5ebafa8da613e1496ef5f563fdb549bd6da3ddf423836df65d5277268",
         "affectsGlobalScope": false
       },
       "../src/entities/notes/dto/update-note.dto.ts": {
-        "version": "13aa02164bfdc1ae6cb73dc535e8e6d2076d46a243ac7107600f1810c09def0b",
-        "signature": "f2317ea437cccf06a7f179be5394e2d43263b8bbdc4caed2ed2a34d4c00b2ca8",
+        "version": "5f6f8cc323850d20b2f5a880e3d943d9e0dc1344f7069022779158a72093758c",
+        "signature": "cfad48bc8773481a701de6c0fc50aaeb7580b5241e554d2c8d21f7fa4ef0c139",
         "affectsGlobalScope": false
       },
       "../src/entities/notes/notes.service.ts": {
-        "version": "5051caedfc13de14163b2f2d95ff05bead349b6578e2b119d031849715f7fc7f",
-        "signature": "bab37068fec5fd73e8097e198d720a9c180ee4c618652f446f38bea82233ae08",
+        "version": "ddc769ae8717541a171f0df2a225e358baa5b134f46b4cb90775d5634f72810b",
+        "signature": "57785ef183b079944b739796d14b7e483893f710121b8092447c87f246f470c9",
         "affectsGlobalScope": false
       },
       "../src/entities/notes/notes.controller.ts": {
-        "version": "1eb12876399d3b61db07e016fec6cbcc927728cfa97b429e0ac6baa5fca9a4e4",
-        "signature": "4ed81807c28f738171171e36d71602e39c62fd558c418eeb23ec18de00312242",
+        "version": "532c2de58bc077a83a768b3be7bf235a1ef1f19edf56dd56b08c424b80fb7f16",
+        "signature": "f2b395606a78aa7e8eb038fea6fa9d6cc21a7592d39da731ba8c30d1f473a6f4",
         "affectsGlobalScope": false
       },
       "../src/entities/notes/notes.module.ts": {
-        "version": "d135255a8f6ad6f8f8be46070c04358d3ed573d34f98e0075273525d0b5ffdc4",
-        "signature": "b46f0108e77df242906e80cb4da3271ac126cd34b0bdf5fa0570c46dfff1bcea",
+        "version": "26bb0f3f1145be10920b01a61555e1950c50a33ffb588da813a919ff357dd090",
+        "signature": "4a773e7f7560c780175233afdde7c0ea4be2d230c041a1b264cea05bb014a66c",
         "affectsGlobalScope": false
       },
       "../src/entities/appointments/dto/create-appointment.dto.ts": {
-        "version": "ed36d1b2affc6d08f5cd7b42e462c620863863cbe2f0f016b356fa93efb0d002",
-        "signature": "682e5b811184beff06bf9036ff5d8f1f1d8f938aa61e532c981ee0b18c4ed74d",
+        "version": "e9e392c67ca48e1f87020f93af76b46eef504229874bcf22861fd4998088b54e",
+        "signature": "2e13ced8ba9513fe263e5efcb9f8668c5bf7118300265a2fc8a1f1ed6b86faa6",
         "affectsGlobalScope": false
       },
       "../src/entities/appointments/dto/update-appointment.dto.ts": {
-        "version": "030b1e0c2e15a90a9f00653ab2545db290977117d73b5333ede45cfb23272c9c",
-        "signature": "0054f8aafd22279f9a3212d9d83d4eb5cc7ba22e016aa8aea0e18552bc1ea23a",
+        "version": "b0f5af37beb087240d96f53906748ca45931fac55617feb912326a590d343285",
+        "signature": "ef804a1f82f74d7ce684c58dc0146170b90c3f5d7584aea1f63482e8f6a8955b",
         "affectsGlobalScope": false
       },
       "../src/entities/appointments/appointments.service.ts": {
-        "version": "4b27e1a054a09ca1f89b63427ebc81806ef1e476109ab8cd12bde006d6f21da9",
-        "signature": "87d4aa4fc914cd6f30df7f703fd1bc3a95cbcabb71524b006cd2887202802aed",
+        "version": "ea2b81d2144a04ce4ca154d28fba0c5837b0a84f7e90d41ef61eebaad54389bf",
+        "signature": "ae9f54ba33e2c90a5c3035955e63c2fe4813d10d69dfd6e9c7aeba46927d1283",
         "affectsGlobalScope": false
       },
       "../src/entities/appointments/appointments.controller.ts": {
-        "version": "241027b557b56d53f2a0dc2bf226322518cec52f753602011d9c5f568b2b4174",
-        "signature": "64b00b2d492137795d339270000505eb7ee5b8aae0db2509ceedb85245085e9e",
+        "version": "8250689fbfee540c090fb473951561e5865a54959d140598cac6711ed16f3978",
+        "signature": "0cd978805b6cb304f6b5cf7bae47160070e4fc43cbf02bdede87dad5b2330a02",
         "affectsGlobalScope": false
       },
       "../src/entities/appointments/appointments.module.ts": {
-        "version": "9676f85e7529e611d2311a5ae1c8253675e80feea53329dedc844647af25f265",
-        "signature": "712028b56f601f37af21904fb449af9c7acbbdb7ab711426178e3e0862b69eec",
+        "version": "c0096492e40007147622956121901fd767a08573c658332dd6b011547de9a580",
+        "signature": "91bd2c91920d89992af39b4edeed3b244bb4c2240312e3001fded7f29671ee61",
         "affectsGlobalScope": false
       },
       "../src/entities/users/schema/user.schema.ts": {
-        "version": "ace9c48bdb6f8b794527328df63353acfc13b83f48e6a5319765eb531fa84943",
-        "signature": "2d7949b73921feeebf0c9a1d1f9fa398a46dc578f3b8d096d168853ff456650d",
+        "version": "2a46affbfa255427f981fa10bcb7530b1ad1f2510e741a7dda6e8605ad6dc743",
+        "signature": "c11d2f7766c532190c2aad20e9a8309edfc863268b03d39c904a9d0ac34c1bcb",
         "affectsGlobalScope": false
       },
       "../src/entities/users/dto/create-user.dto.ts": {
-        "version": "4f04c80b30de7867543b2ab1d0a0a21b231142ec642b1510699b9f62e86b8d67",
-        "signature": "368f889978398ea92d633c6cfc711263a3ffedc9d5e9c3cbab2292a5664ce726",
+        "version": "e8e4d25555efbfdf2421098278ae37ded3cbb61d58ec4776a803b8fd860f91a6",
+        "signature": "dc6285b729962c9aa39d672b82074c270a57e6804c1901ebb8538700574546ba",
         "affectsGlobalScope": false
       },
       "../src/entities/users/dto/auth-user.dto.ts": {
-        "version": "dd92f85516bd80fa94285743ed7ef7b716b8c156db83c9fb27afa3a3a5f38009",
-        "signature": "873cf27c925ad966f95a0dbf57935eadde899fd7c37cfce720351616346a644e",
+        "version": "ea83c26096d42aba791d2d82f8d97ad3fb5917cd3a2707df27261a3caeb9eb36",
+        "signature": "9871962ab719495ac33658a68d965c576863190b0fcd6cd929f6030fa0bcad31",
         "affectsGlobalScope": false
       },
       "../src/entities/users/users.service.ts": {
-        "version": "aaced0245259878290de7c2c3319136a25aac060320f07902e405d55518fe53b",
-        "signature": "e1dee9f0e6fcdb97cdd40666ab2e052a9d300c7e2ff9292974a6fa044afb3842",
+        "version": "605480cea31df3a1b6cbe97ee3622a01ba82c708ff097b0cbf2deb85e19f75d9",
+        "signature": "78335690f566efbaf42e015ebb01c3891df848258e60acd9cff9f0d376264f2b",
         "affectsGlobalScope": false
       },
       "../src/entities/users/users.controller.ts": {
-        "version": "bb5314c6582024693be05af77251e2d7a0894bd56f778853431c71a6e392a244",
-        "signature": "8dc9b86f6e483374084b89f5400201378d2747f6b5691fe52c515e280d3c8564",
+        "version": "846c8ff41d5236b1da83d212a8cd28fd61733129ac333fdbfa310aef8213e4cc",
+        "signature": "754c6fc11302f1c25fcd1e8defa9f373d6f280cb449693cd8184ed60efb3fb01",
         "affectsGlobalScope": false
       },
       "../src/entities/users/users.module.ts": {
-        "version": "488c91d56b7655a07d1476bdbf1bafa0eb860776aca4b0f470e0eda91a215b26",
-        "signature": "12dec6c99bd8d11167fa91a31e737abbbf8c9cc789c151a25a9a1d13f328175c",
+        "version": "d1aeebf953cc04da295d3e56b68ee150d88e8ed4518970b588c49f0f29a497c4",
+        "signature": "aa1725e38b5a0b4009f6a74f296f173e7926c119a60454dbd2e523861735df69",
         "affectsGlobalScope": false
       },
       "../src/app.module.ts": {
-        "version": "9ff20fb25e3ce6a9cb1c7c7fae7e665172d32a5b0daa0d5c369453932c9603c3",
-        "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88",
+        "version": "67003956f0f46429e8a296f844743f30cc462103100bcbd5ee1508c5eb5418e7",
+        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
         "affectsGlobalScope": false
       },
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
@@ -1957,8 +1957,8 @@
         "affectsGlobalScope": false
       },
       "../src/main.ts": {
-        "version": "2e0ebc79241c59fa3d4ca920038a5197e0033df0f99b9e795046a5ca2ab63a9b",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "version": "c9ad76c782d51f37429c883304e0d96088ece693f395a8183dbb78e9a725a757",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
       "../node_modules/@babel/types/lib/index.d.ts": {
